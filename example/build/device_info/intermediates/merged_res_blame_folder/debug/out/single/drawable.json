@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\PLUGINS\\awesome_notifications-0.7.0-beta.7+5 (1)\\example\\build\\device_info\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\abhay\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\PLUGINS\\awesome_notifications-0.7.0-beta.7+5 (1)\\example\\build\\device_info\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\abhay\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\PLUGINS\\awesome_notifications-0.7.0-beta.7+5 (1)\\example\\build\\device_info\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\abhay\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\PLUGINS\\awesome_notifications-0.7.0-beta.7+5 (1)\\example\\build\\device_info\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\abhay\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    }
+]

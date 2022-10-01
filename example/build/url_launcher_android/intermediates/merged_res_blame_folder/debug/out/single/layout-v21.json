@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\PLUGINS\\awesome_notifications-0.7.0-beta.7+5 (1)\\example\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\abhay\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\PLUGINS\\awesome_notifications-0.7.0-beta.7+5 (1)\\example\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\abhay\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\PLUGINS\\awesome_notifications-0.7.0-beta.7+5 (1)\\example\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\abhay\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\PLUGINS\\awesome_notifications-0.7.0-beta.7+5 (1)\\example\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\abhay\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

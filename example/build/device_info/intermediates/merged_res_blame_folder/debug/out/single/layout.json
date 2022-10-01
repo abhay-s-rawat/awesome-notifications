@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\PLUGINS\\awesome_notifications-0.7.0-beta.7+5 (1)\\example\\build\\device_info\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\abhay\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\PLUGINS\\awesome_notifications-0.7.0-beta.7+5 (1)\\example\\build\\device_info\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\abhay\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\PLUGINS\\awesome_notifications-0.7.0-beta.7+5 (1)\\example\\build\\device_info\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\abhay\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\PLUGINS\\awesome_notifications-0.7.0-beta.7+5 (1)\\example\\build\\device_info\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\abhay\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\PLUGINS\\awesome_notifications-0.7.0-beta.7+5 (1)\\example\\build\\device_info\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\abhay\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\PLUGINS\\awesome_notifications-0.7.0-beta.7+5 (1)\\example\\build\\device_info\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\abhay\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]
